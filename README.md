@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+😄I'm a graduate student in information security, majoring in HuNan University.
+🔭 I’m currently working on Java back-end learning.
+📫 How to reach me: mengertang@gmail.com
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XiaooYi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XiaooYi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XiaooYi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=XiaooYi&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XiaooYi&theme=default&utcOffset=8)
