@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 😄I'm a graduate student in information security, majoring in HuNan University. <br>
 🔭 I’m currently working on Java back-end learning. <br>
-📫 How to reach me: mengertang@gmail.com <br>
+📫 How to reach me: 1964573432@qq.com <br>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XiaooYi&theme=default)
